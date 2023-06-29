@@ -11,6 +11,7 @@ export default function Showcase() {
             </h1>
             <p className="lg:text-lg text-slate-400 mb-10">
             Scissor can disrupt the URL shortening industry by providing a simple, easy-to-use tool that creates short, memorable URLs.
+
             </p>
             <button className="btn-cta rounded-full">Get Started</button>
           </article>

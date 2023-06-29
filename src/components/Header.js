@@ -9,7 +9,8 @@ export default function Header() {
       <header className="header max-width py-5">
         <div className="flex items-center justify-between">
           <article className="flex items-center">
-            <img src={logo} alt="" />
+            <img src={logo} alt="" /> 
+            
 
             <nav className="hidden md:block md:ml-5">
               <ul className="flex items-start justify-start">
